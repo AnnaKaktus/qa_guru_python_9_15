@@ -16,8 +16,8 @@
 
 Python Pytest PyCharm Selenoid Selene Jenkins Allure Report Telegram
 
-<img src="/design/screens/python-original.svg" alt="Image 1" width="45" height="45"><img src="/design/screens/pytest-original.svg" alt="Image 2" width="45" height="45"><img src="/design/screens/PyCharm_Icon.svg" alt="Image 3" width="45" height="45"><img src="/design/screens/selenoid.png" alt="Image 4" width="45" height="45"><img src="/design/screens/jenkins-original.svg" alt="Image 5" width="45" height="45">
-<img src="/design/screens/allure.png" alt="Image 6" width="45" height="45"><img src="/design/screens/telegram.svg" alt="Image 7" width="45" height="45">
+<img src="/design/logos/python-original.svg" alt="Image 1" width="45" height="45"><img src="/design/logos/pytest-original.svg" alt="Image 2" width="45" height="45"><img src="/design/logos/PyCharm_Icon.svg" alt="Image 3" width="45" height="45"><img src="/design/logos/selenoid.png" alt="Image 4" width="45" height="45"><img src="/design/logos/jenkins-original.svg" alt="Image 5" width="45" height="45">
+<img src="/design/logos/allure.png" alt="Image 6" width="45" height="45"><img src="/design/logos/telegram.svg" alt="Image 7" width="45" height="45">
 
 # Запуск автотестов выполняется на сервере Jenkins
 
@@ -38,7 +38,7 @@ Python Pytest PyCharm Selenoid Selene Jenkins Allure Report Telegram
 
 #### 5. Результат запуска сборки можно посмотреть в отчёте Allure
 
-![This is an image](/design/screens/allure.png)
+![This is an image](/design/screens/allure_screen.png)
 
 ### Локальный запуск автотестов
 
