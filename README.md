@@ -28,7 +28,7 @@ Python Pytest PyCharm Selenoid Selene Jenkins Allure Report Telegram
 
 #### 1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/009-AnnaKaktus_qaguru_09-15/">проект</a>
 
-![This is an image](/design/screens/Jenkins_main.png)
+![This is an image](/design/screens/jenkins.png)
 
 #### 2. Выбрать пункт **Собрать с параметрами**
 
@@ -38,7 +38,7 @@ Python Pytest PyCharm Selenoid Selene Jenkins Allure Report Telegram
 
 #### 5. Результат запуска сборки можно посмотреть в отчёте Allure
 
-![This is an image](/design/screens/allure_report.png)
+![This is an image](/design/Allure.png)
 
 ### Локальный запуск автотестов
 
@@ -73,7 +73,3 @@ allure serve allure-results
 ![This is an image](/design/screens/2a582ceeef8c29db0da26df879d2d5b1.mp4)
 
 ### Настроено автоматическое оповещение о результатах сборки Jenkins в Telegram-бот
-
-### Пример Allure-отчета
-
-![This is an image](/design/Allure.png)
