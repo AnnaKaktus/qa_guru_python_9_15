@@ -1,4 +1,4 @@
-from selene.support.shared import browser, config
+from selene.support.shared import browser
 from selene import by
 import allure
 import os
@@ -7,7 +7,6 @@ from pages.dashboard_page import DashboardPage
 
 
 def test_auth_with_valid_creds():
-    config.timeout = 10
     page = DashboardPage()
     with allure.step("Открываем страницу дашборда для проверки верного логина"):
         page.open_page()
